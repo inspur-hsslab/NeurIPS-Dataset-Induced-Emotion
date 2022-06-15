@@ -19,8 +19,11 @@ We select eight social topics that gave rise to discussion on Tiktok to collect 
 |Corona Virus| coronavirus, happyathome, lockdown|
 |Economy| economy, gasprices,inflation,money,stocks|
 |Abortion| abortion, feminism, prochoice, prolife, roevwade|
+
 We totally collect 10777 videos and 2947647 comments from tiktok website to construct this dataset. The page of micro video on tiktok is shown as figure.
+
 ![FIGURE1](./pic/figure1.png "Micro video page in Tiktok website. ")
+
 After the process of data clean and filter, the MVIndEmo dataset contains 7153 videos covering the eight hot topics, corresponding public induced polarity labels and emotion classification labels. We design a strategy to analyze the sentiment of comments, then generate the public induced emotion of micro videos by summarizing them. For the emotion polarity task, there are three label:positive, negative, and neutral. And the classificaton label inclue six categories: anger, fear, joy, love, sadness, and surprise. 
 
 ## License
