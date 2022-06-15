@@ -23,12 +23,6 @@ We totally collect 10777 videos and 2947647 comments from tiktok website to cons
 ![FIGURE1](./pic/figure1.png "Micro video page in Tiktok website. ")
 After the process of data clean and filter, the MVIndEmo dataset contains 7153 videos covering the eight hot topics, corresponding public induced polarity labels and emotion classification labels. We design a strategy to analyze the sentiment of comments, then generate the public induced emotion of micro videos by summarizing them. For the emotion polarity task, there are three label:positive, negative, and neutral. And the classificaton label inclue six categories: anger, fear, joy, love, sadness, and surprise. 
 
-## Authors
-
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
-
 ## License
 
 The MVIndEmo data set is in the public domain. We released the MVIndEmo data set under a CC BY-SA 4.0 license. The data license form should be signed before accessing the data. Please sign the form data/Liscense Agreement.pdf and send it to hsslab.inspur@gmail.com and we will provide the link for data download.
